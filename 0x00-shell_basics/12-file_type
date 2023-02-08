@@ -1,2 +1,2 @@
 #!/bin/bashf
-mkdir /tmp/iamafile
+file /tmp/iamafile
